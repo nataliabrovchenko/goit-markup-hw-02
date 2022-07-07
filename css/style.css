@@ -1,0 +1,40 @@
+:root {
+    --primary-text-color: #212121;
+    --title-text-color: #757575;
+    --accent-color: #2196F3;
+    --employee-bg-color: #F5F4FA;
+    --shadows-color: #ECECEC;
+    --footer-bg-color: #2F303A;
+}
+
+
+
+
+
+/* header */
+.logo-web {
+    color: #2196F3;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.logo-studio {
+    color: #000000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo-web:focus,
+.logo-studio:focus {
+    color: #2196F3;
+}
+
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
