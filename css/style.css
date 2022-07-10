@@ -94,6 +94,7 @@ a {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     border: transparent;
+    cursor: pointer;
 }
 .button-hero:hover,
 .button-hero:focus {
@@ -213,7 +214,8 @@ a {
     letter-spacing: 0.03em;
     border: transparent;
     color: var(--primary-text-color);
-    background-color: var(--employee-background-color)
+    background-color: var(--employee-background-color);
+    cursor: pointer;
 }
 .button-menu:hover,
 .button-menu:focus {
